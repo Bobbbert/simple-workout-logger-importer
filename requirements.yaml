@@ -1,0 +1,11 @@
+name: fitx
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9.*
+  - sqlite
+  - pandas
+  - ptvsd
+  - pylint=2.8.3
+  - flake8
+  - epc
